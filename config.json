@@ -1,0 +1,14 @@
+{
+  "default_connection": {
+    "protocol": "MQTT",
+    "host": "localhost",
+    "port": 1883,
+    "topic": "sensors/#"
+  },
+  "theme": {
+    "background": "#2d2d2d",
+    "foreground": "white",
+    "accent": "#5e9cd3"
+  },
+  "update_interval_ms": 100
+}
