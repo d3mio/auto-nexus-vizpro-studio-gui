@@ -40,7 +40,7 @@ Get Nexus VizPro Studio up and running in minutes.
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/nexus-vizpro-studio.git
+    git clone https://github.com/d3mio/auto-nexus-vizpro-studio-gui.git
     cd nexus-vizpro-studio
     ```
 2.  **Create a virtual environment (recommended)**:
